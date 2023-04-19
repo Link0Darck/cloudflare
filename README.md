@@ -10,7 +10,7 @@
 
 <h3 align=center>List of different software passing through cloudflare :</h3>
 
-<p align="center">
+<p align="center"><br>
   <a href="#about">Discord</a>
   •
   <a href="#Features">AlternativeAPI</a>
