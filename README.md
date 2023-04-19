@@ -11,9 +11,9 @@
 <h3 align=center>List of different software passing through cloudflare :</h3>
 
 <p align="center"><br>
-  <a href="#about">Discord</a>
+  <a href="https://github.com/Link0Darck/cloudflare/tree/main/Discord">Discord</a>
   •
-  <a href="#Features">AlternativeAPI</a>
+  <a href="https://github.com/Link0Darck/cloudflare/tree/main/AlternativeAPI">AlternativeAPI</a>
 </p>
 
 ## ❓ About
