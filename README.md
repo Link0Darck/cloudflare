@@ -1,0 +1,2 @@
+# cloudflare
+Example cloudflare setup
