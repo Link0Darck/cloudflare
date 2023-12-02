@@ -23,7 +23,7 @@ No problem it's just that it returns a 404 error code (file not found) this is d
 **Screenshot :**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Link0Darck/cloudflare/main/Img/Value.png"></a>
+  <img src="x-Value.png"></a>
 </p>
 
 **Expression Preview :**
@@ -34,6 +34,14 @@ No problem it's just that it returns a 404 error code (file not found) this is d
 
 - 7 Choose the option : **Skip**
 
-- 8 Click on : **Save**
+- 8 Make your options like the image before saving so as not to be blocked
+
+**Screenshot :**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Link0Darck/cloudflare/main/Img/cloudflare2.png"></a>
+</p>
+
+- 9 Click on : **Save**
 
 After this you should be able to upload images of your cloudflare protected site to Discord
