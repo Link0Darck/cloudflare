@@ -13,7 +13,7 @@
 <p align="center"><br>
   <a href="https://github.com/Link0Darck/cloudflare/tree/main/Discord">Discord</a>
   •
-  <a href="https://github.com/Link0Darck/cloudflare/tree/main/AlternativeAPI">AlternativeAPI</a>
+  <a href="">NONE</a>
 </p>
 
 ## ❓ About
